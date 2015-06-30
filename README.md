@@ -1,4 +1,2 @@
-SupInternetTweeter
-==================
-
-School project for SupInternet A1
+#SupInternetTweeter restokalm.livehost.fr/Tweeter/
+ SupInternet A1
