@@ -1,2 +1,2 @@
-#SupInternetTweeter restokalm.livehost.fr/Tweeter/
+#SupInternetTweeter http://restokalm.livehost.fr/Tweeter/
  SupInternet A1
